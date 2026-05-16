@@ -1,0 +1,44 @@
+# 🤖 Laboratório de Inteligência Artificial: Prompts e Geração
+ 
+## 📝 Descrição do Projeto
+Este repositório documenta experimentos práticos em **Engenharia de Prompt**, explorando a capacidade de modelos de linguagem (LLMs) e modelos de geração de imagem de interpretar instruções complexas, estilos artísticos e contextos formais específicos.
+ 
+O projeto demonstra a evolução de comandos simples para instruções altamente detalhadas e estruturadas, garantindo resultados precisos em diferentes mídias.
+ 
+---
+ 
+## 📧 Experimento 1: Comunicação Formal & Criativa
+[cite_start]**Objetivo:** Gerar um e-mail formal de desculpas com um cenário lúdico (Pirata para um Rei), mantendo o rigor protocolar e a submissão exigida pelo contexto[cite: 2].
+ 
+* [cite_start]**Prompt Utilizado:** "Um e-mail formal de desculpas de um pirata para um rei"[cite: 2].
+* **Destaques do Resultado:**
+    * [cite_start]Uso de vocabulário arcaico e respeitoso ("Vossa Majestade", "clemência")[cite: 8, 18].
+    * [cite_start]Estrutura de reparação de danos e compromisso formal[cite: 13, 14].
+    * [cite_start]Manutenção da "persona" do Capitão sem perder o profissionalismo do e-mail[cite: 3, 5].
+ 
+---
+ 
+## 🎨 Experimento 2: Geração de Imagem Multiestilo
+[cite_start]**Objetivo:** Criar uma imagem complexa de um astronauta em Marte, integrando estilos históricos (Barroco/Renascentista) com elementos modernos e referências da cultura pop[cite: 26, 29, 30].
+ 
+### 🛠 Evolução do Prompt (Iterações):
+1.  [cite_start]**Conceito Base:** Astronauta estilo barroco tocando violoncelo em Marte[cite: 26].
+2.  [cite_start]**Refino de Realismo:** Ajuste para um Marte mais próximo da realidade científica, evitando elementos fantasiosos excessivos[cite: 27].
+3.  [cite_start]**Iluminação e Estilo:** Aplicação de tom noturno (espaço) e estética de **Pintura Renascentista**[cite: 28, 29].
+4.  [cite_start]**Referência Visual:** Inspiração final baseada na estética visual do álbum *Lemonade* da Beyoncé[cite: 30].
+ 
+> **Resultado Visual:** Uma obra que mescla a solidão do espaço com a riqueza detalhista do barroco, demonstrando controle sobre iluminação, composição e referência cultural.
+ 
+---
+ 
+## 🚀 Tecnologias Utilizadas
+* **LLM (Texto):** Qwen / Modelos de Linguagem para estruturação de e-mails.
+* **IA Generativa (Imagem):** Midjourney / DALL-E / Bing Image Creator.
+* **Engenharia de Prompt:** Técnicas de iteração, definição de persona e restrição de contexto.
+ 
+## 📊 Aprendizados
+* [cite_start]**Iteração:** A importância de refinar o prompt (como visto na transição do tom diurno para o noturno em Marte) para chegar ao resultado esperado[cite: 28].
+* [cite_start]**Contextualização:** Como restrições negativas ("não invente muita coisa") ajudam a manter a fidelidade do modelo ao tema proposto[cite: 27].
+ 
+---
+[Voltar ao início](https://github.com/SEU_USUARIO_GITHUB)
