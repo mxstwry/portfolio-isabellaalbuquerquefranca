@@ -1,0 +1,37 @@
+# ⚖️ Classificação Visual: Viés Algorítmico e Ética em IA
+
+## 📝 Descrição do Projeto
+Este repositório documenta um experimento prático realizado no **Teachable Machine** para analisar como datasets enviesados corrompem a precisão de modelos de Machine Learning. O foco é identificar falhas de classificação em categorias de gênero/perfil e propor soluções éticas de governança.
+
+---
+
+## 🔬 Etapa Técnica: O Modelo de Classificação
+O modelo foi treinado com categorias baseadas em estereótipos de vestimenta para testar a sensibilidade do algoritmo a dados limitados.
+
+### 📉 Resultado da Inferência (O Erro)
+Durante o teste live, o sistema apresentou uma falha crítica de classificação (Falso Positivo), atribuindo uma categoria incorreta com total confiança estatística devido ao viés de treinamento.
+
+![Print do Erro de Classificação](WhatsApp_Image_Teachable_Machine.png)
+[cite_start]*Figura 1: Interface do Teachable Machine exibindo saída de 100% para categoria incorreta[cite: 34, 38, 43].*
+
+---
+
+## ✍️ Memorial de Impacto e Ética 
+
+### ⚙️ Mecanismo do Viés
+A seleção restrita de dados **reduz** a diversidade de exemplos e **faz** o algoritmo aprender padrões incompletos. Assim, o sistema **interpreta** a realidade de forma distorcida e **replica** vieses presentes nos dados.
+
+### 👥 Consequência Social
+O indivíduo afetado **sente** injustiça e desvalorização, pois o sistema não **reconhece** suas reais capacidades. Isso **prejudica** oportunidades profissionais e **afeta** sua autoestima.
+
+### 🛠️ Ação Mitigadora (Human-in-the-loop)
+Especialistas humanos **revisam** e **equilibram** os dados antes do treinamento, **identificam** vieses e **corrigem** o conjunto de dados para garantir mais equidade nas decisões do modelo.
+
+---
+
+## 🚀 Ferramentas Utilizadas
+* [cite_start]**Teachable Machine (Google):** Para treinamento e teste do modelo live[cite: 45].
+* **Documentação Técnica:** Análise ética baseada em critérios de impacto humano.
+
+---
+[Voltar ao Perfil Principal](https://github.com/seu-usuario-repositorio)
